@@ -24,6 +24,7 @@
   width: auto;
   object-fit: contain;
   mix-blend-mode: lighten;
+  transform: scale(2.5);
 }
 
 .footer-desc {
