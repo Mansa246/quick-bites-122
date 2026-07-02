@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="container footer-content">
         <div className="footer-brand">
           <Link to="/" className="footer-logo">
-            <img src="/assets/logo.jpg" alt="Quick Bites 122 Logo" className="footer-logo-img" />
+            <img src="/assets/new_logo.png" alt="Quick Bites 122 Logo" className="footer-logo-img" />
           </Link>
           <p className="footer-desc">
             Ottawa's premium spot for casual comfort food, halal-friendly meals, and fast service.
