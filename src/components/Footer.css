@@ -20,12 +20,9 @@
 }
 
 .footer-logo-img {
-  height: 250px;
+  height: 90px;
   width: auto;
   object-fit: contain;
-  mix-blend-mode: screen;
-  transform: scale(2.5);
-  pointer-events: none;
 }
 
 .footer-desc {

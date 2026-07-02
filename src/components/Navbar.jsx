@@ -20,7 +20,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container nav-container">
         <Link to="/" className="logo">
-          <img src="/assets/new_logo.png" alt="Quick Bites 122 Logo" className="logo-img" />
+          <img src="/assets/new_logo_transparent.png" alt="Quick Bites 122 Logo" className="logo-img" />
         </Link>
 
         {/* Desktop Menu */}
