@@ -21,12 +21,12 @@
 }
 
 .logo-img {
-  height: 120px;
+  height: 200px;
   width: auto;
   object-fit: contain;
   mix-blend-mode: lighten;
-  margin-top: -25px;
-  margin-bottom: -25px;
+  margin-top: -65px;
+  margin-bottom: -65px;
 }
 
 .nav-links {
